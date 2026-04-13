@@ -10,4 +10,4 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
 Project Workflow
-![image]()
+![image](https://github.com/Sanjana-gupta30/customer-trends-data-analysis-SQL-Python-PowerBI/blob/5f9ee60f6b5cec0aea7cf35eefa2c6921568aa47/Data%20science%20project%20workflow%20diagram.png)
